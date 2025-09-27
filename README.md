@@ -25,7 +25,7 @@ Requerimientos:
     - Tito nunca se enferma, puede comer de todo y le cae siempre bien. 
 7) De los huevos que falta encontrar: 
     - Cuales son con chocolate blanco
-    - El de mayor cantidad de calorías
+    - De los encontrados, el de mayor cantidad de calorías
 
 Hacer las pruebas necesarias para verificar que los siguientes datos son correctos:
 

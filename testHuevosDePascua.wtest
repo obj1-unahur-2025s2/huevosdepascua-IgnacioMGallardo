@@ -1,9 +1,12 @@
 import huevosDePascua.*
+import chicos.*
+import caceriaDeHuevos.*
 
 describe "group of tests" {
 
-  test "test 1" {
-    assert.equals(50+50, 100)
+  method initialize() {caceria.inicializarJuego()}
+  test "El de mayor cantidad de calorias es la Marioshka" {
+    assert.equals(matrioshka, caceria.noEncontradoDeMayorCalorias())
   }
   test "test 2" {
     assert.that(true)
